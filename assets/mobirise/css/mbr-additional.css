@@ -1753,6 +1753,47 @@ body {
 .cid-qSIRAnaMQ7 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qSNoycV2eA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qSNoycV2eA .title {
+  margin-bottom: 2rem;
+}
+.cid-qSNoycV2eA .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qSNoycV2eA a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-qSNoycV2eA a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qSNoycV2eA .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-qSNoycV2eA .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-qSU082iukm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-qSU082iukm .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qSU082iukm .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qSIY17hqgr {
   background-image: url("../../../assets/images/background5.jpg");
 }
